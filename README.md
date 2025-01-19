@@ -13,3 +13,7 @@ https://user-images.githubusercontent.com/33737009/177866765-2170eb39-d86d-4274-
 
 https://user-images.githubusercontent.com/33737009/177982674-6e5f0a92-13e1-4f3a-ab31-a77a085cf938.mp4
 
+## Digital Signal Graph (Source [Github](https://github.com/emrepbu/ManimTutorials/blob/main/basic-electronic/fundamental-concepts/binary-numbers/binary-numbers/binary-numbers.py))
+
+https://github.com/user-attachments/assets/d2b92836-7cad-4a6d-8928-b3d51be4f3ba
+
