@@ -2,7 +2,6 @@ from manim import *
 
 class BinaryNumberExplanation(Scene):
     def construct(self):
-        # Başlık
         title = Text("İkili Sayı Sisteminin Matematiksel Temeli", font_size=36).to_edge(UP)
         self.play(Write(title))
         self.wait(1)
@@ -44,7 +43,7 @@ class BinaryNumberExplanation(Scene):
 
         self.play(FadeOut(*self.mobjects[1:]))
 
-        example_title = Text(r"Örnek: İkili Sayı 1101_{2}", font_size=30, color=YELLOW).next_to(formula_part0, DOWN, aligned_edge=LEFT)
+        example_title = Text(r"Örnek: İkili Sayı 1101", font_size=30, color=YELLOW).next_to(formula_part0, DOWN, aligned_edge=LEFT)
         self.play(Write(example_title))
         self.wait(1)
 
@@ -68,9 +67,6 @@ class BinaryNumberExplanation(Scene):
             color=ORANGE
         ).next_to(example_step2, DOWN, aligned_edge=LEFT)
         self.play(Transform(example_step2.copy(), example_step3))
-        self.wait(2)
-
-        self.play(example_step3.animate.shift(RIGHT).scale(1.5))
         self.wait(2)
 
         self.play(FadeOut(*self.mobjects))
