@@ -1,3 +1,6 @@
 # binary-numbers
 
-<video controls src="./media/videos/binary-numbers/1080p60/DigitalSignalGraph.mp4" title="Title"></video>
+
+
+https://github.com/user-attachments/assets/750b6354-3600-435b-a9c5-7f898a098cb5
+
